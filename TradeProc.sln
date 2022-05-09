@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeProc", "TradeProc\TradeProc.csproj", "{D1607BEB-AE39-43DF-80A1-8F443ED0CA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{3FC9F6C8-4972-4F01-85B8-21CCF74905A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1607BEB-AE39-43DF-80A1-8F443ED0CA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1607BEB-AE39-43DF-80A1-8F443ED0CA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1607BEB-AE39-43DF-80A1-8F443ED0CA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1607BEB-AE39-43DF-80A1-8F443ED0CA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC9F6C8-4972-4F01-85B8-21CCF74905A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC9F6C8-4972-4F01-85B8-21CCF74905A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC9F6C8-4972-4F01-85B8-21CCF74905A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC9F6C8-4972-4F01-85B8-21CCF74905A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09E87CC-F79E-4FC8-B4A4-52456A70CC22}
+	EndGlobalSection
+EndGlobal
